@@ -8,5 +8,6 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/custom-serialization"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/concurrent"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/compeng-common"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/client-common"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
